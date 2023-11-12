@@ -32,7 +32,7 @@ Elevate your restaurant's efficiency with our intuitive Order Management System.
 ```sh
  `git clone [repository_url]`
 ```
-2. **Navigate to the project directory:**
+2: Navigate to the project directory:
 ```sh
 `cd restaurant-ordering-system`
 ```
