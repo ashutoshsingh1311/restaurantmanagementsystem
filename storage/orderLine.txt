@@ -1,0 +1,14 @@
+1,Pizza,1,5.0
+2,Burger,4,24.0
+3,Burger,1,6.0
+3,Pizza,1,5.0
+4,coffee,3,600.0
+4,tea,2,300.0
+5,pizza,2,800.0
+5,coffee,3,600.0
+6,pizza,2,800.0
+7,Burger,4,1400.0
+8,Pasta,5,1900.0
+9,pizza,2,800.0
+10,pizza,2,800.0
+11,tea,3,450.0

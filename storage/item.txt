@@ -1,0 +1,5 @@
+pizza,400.0,2
+Burger,350.0,6
+Pasta,380.0,5
+coffee,200.0,4
+tea,150.0,5
