@@ -28,17 +28,17 @@ Elevate your restaurant's efficiency with our intuitive Order Management System.
 
 ### Option 1: Clone Repository
 
-1: Clone the Repository
+1. Clone the Repository
 ```sh
  `git clone [repository_url]`
 ```
-2: Navigate to the project directory:
+2. Navigate to the project directory:
 ```sh
 `cd restaurant-ordering-system`
 ```
-3. **Open the project using Apache NetBeans IDE 19.**
-4. **Set up the JDK Compiler to 17.0.9.**
-5. **Run the application within the IDE.**
+3. Open the project using Apache NetBeans IDE 19.
+4. Set up the JDK Compiler to 17.0.9.
+5. Run the application within the IDE.
 
 ### Option 2: Download ZIP
 
