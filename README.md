@@ -21,15 +21,17 @@ Elevate your restaurant's efficiency with our intuitive Order Management System.
 
 ## Technologies Used
 
-- **IDE:** Apache NetBeans IDE 19
-- **JDK Compiler:** 17.0.9
-
+- [Apache NetBeans IDE 19](https://netbeans.apache.org/front/main/download/nb19/)
+- [JDK Compiler 17.0.9](https://www.oracle.com/java/technologies/downloads/)
 
 ## Installation
 
 ### Option 1: Clone Repository
 
-1. **Clone the repository:** `git clone [repository_url]`
+ * Step I: Clone the Repository
+```sh
+ **Clone the repository:** `git clone [repository_url]`
+```
 2. **Navigate to the project directory:** `cd restaurant-ordering-system`
 3. **Open the project using Apache NetBeans IDE 19.**
 4. **Set up the JDK Compiler to 17.0.9.**
