@@ -44,8 +44,8 @@ Alternatively, download the repository as a zip file, extract it, and open the p
 
 For any issues or inquiries, feel free to contact us:
 
-- **Instagram:** [@your_instagram_handle](https://www.instagram.com/ashtoshhh/)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ashutosh-singh-16a5b4251/)
+- **Instagram:** [ashtoshhh](https://www.instagram.com/ashtoshhh/)
+- **LinkedIn:** [Ashutosh Singh](https://www.linkedin.com/in/ashutosh-singh-16a5b4251/)
 - **Email:** ashutosharena7@gmai.com
 
 ## Contributing
