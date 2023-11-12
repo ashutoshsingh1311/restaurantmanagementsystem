@@ -56,6 +56,10 @@ Elevate your restaurant's efficiency with our intuitive Order Management System.
 4. Create orders from "Labour Management."
 5. Experience the enhanced efficiency of the Order Management System.
 
+### Author
+
+ashutoshsingh1311 - [Ashutosh Singh](https://github.com/ashutoshsingh1311)
+
 ## Contact and Support
 
 For any issues or inquiries, feel free to contact us:
