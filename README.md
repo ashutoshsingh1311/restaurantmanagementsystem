@@ -1,6 +1,6 @@
 # Restaurant Ordering Management System
 <p align="center">
- <img height=350px src="./order.png" alt="Order Creation">
+ <img height=350px src="./order.png.png" alt="Order Creation">
 </p>
 ## Overview
 
