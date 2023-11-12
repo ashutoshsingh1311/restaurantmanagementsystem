@@ -5,6 +5,7 @@
 <div align="center">
 
 [![Java version](https://img.shields.io/badge/java-17.0.9+-blue.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
+</div>
 
 ## Overview
 
