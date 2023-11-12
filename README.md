@@ -2,6 +2,10 @@
 <p align="center">
  <img height=350px src="./order.png.png" alt="Order Creation">
 </p>
+<div align="center">
+
+[![Java version](https://img.shields.io/badge/java-17.0.9+-blue.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
+
 ## Overview
 
 Elevate your restaurant's efficiency with our intuitive Order Management System. Streamline orders, enhance customer satisfaction, and bring a touch of seamless precision to your dining experience.
