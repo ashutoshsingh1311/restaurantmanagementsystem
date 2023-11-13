@@ -3,8 +3,7 @@
  <img height=350px src="./order.png.png" alt="Order Creation">
 </p>
 <div align="center">
-
-[![Java version](https://img.shields.io/badge/java-17.0.9+-blue.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
+ 
 [![JDK compiler](https://img.shields.io/badge/jdk-17.0.9+-blue.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
 [![Apache NetBeans version](https://img.shields.io/badge/Apache%20NetBeans-12.5+-blue.svg)](https://netbeans.apache.org/download/index.html)
 
