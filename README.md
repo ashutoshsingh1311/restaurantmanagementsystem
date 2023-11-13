@@ -62,7 +62,7 @@ $ cd restaurant-ordering-system
 1. Navigate to the main menu.
 2. Use "Item Management" to add, view, modify, or delete menu items.
 3. Utilize "Labour Management" for labor-related actions.
-4. Create orders from "Labour Management."
+4. Create orders from "Order Management."
 5. Experience the enhanced efficiency of the Order Management System.
 
 ## Author
