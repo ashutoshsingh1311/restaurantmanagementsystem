@@ -8,8 +8,8 @@
 [![Apache NetBeans version](https://img.shields.io/badge/Apache%20NetBeans-12.5+-blue.svg)](https://netbeans.apache.org/download/index.html)
 
 </div>
-------------------------------------------
-## Overview
+
+### Overview
 
 Elevate your restaurant's efficiency with our intuitive Order Management System. Streamline orders, enhance customer satisfaction, and bring a touch of seamless precision to your dining experience.
 ------------------------------------------
