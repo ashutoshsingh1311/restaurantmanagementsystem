@@ -64,7 +64,8 @@ $ cd restaurant-ordering-system
 ------------------------------------------
 ## Author
 
-ashutoshsingh1311 - [Ashutosh Singh](https://github.com/ashutoshsingh1311)
+ashutoshsingh1311 -(https://github.com/ashutoshsingh1311)
+- Ashutosh Singh
 ------------------------------------------
 ## Contact and Support
 
