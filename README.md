@@ -62,7 +62,6 @@ $ cd restaurant-ordering-system
 4. Create orders from "Order Management."
 5. Experience the enhanced efficiency of the Order Management System.
 ------------------------------------------
-------------------------------------------
 ### Author 👤
 
 ashutoshsingh1311 - [Ashutosh Singh](https://github.com/ashutoshsingh1311)
